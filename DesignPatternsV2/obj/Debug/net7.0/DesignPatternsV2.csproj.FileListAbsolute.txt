@@ -1,0 +1,12 @@
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/bin/Debug/net7.0/DesignPatternsV2.deps.json
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/bin/Debug/net7.0/DesignPatternsV2.dll
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/bin/Debug/net7.0/DesignPatternsV2.pdb
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.csproj.AssemblyReference.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.AssemblyInfoInputs.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.AssemblyInfo.cs
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.csproj.CoreCompileInputs.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.dll
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/refint/DesignPatternsV2.dll
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/DesignPatternsV2.pdb
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/DesignPatternsV2/obj/Debug/net7.0/ref/DesignPatternsV2.dll
