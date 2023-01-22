@@ -1,0 +1,15 @@
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/bin/Debug/net7.0/Observer
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/bin/Debug/net7.0/Observer.deps.json
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/bin/Debug/net7.0/Observer.runtimeconfig.json
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/bin/Debug/net7.0/Observer.dll
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/bin/Debug/net7.0/Observer.pdb
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.csproj.AssemblyReference.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.AssemblyInfoInputs.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.AssemblyInfo.cs
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.csproj.CoreCompileInputs.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.dll
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/refint/Observer.dll
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.pdb
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/Observer.genruntimeconfig.cache
+/Users/abdulkadirmusuk/Projects/DesignPatternsV2/Observer/obj/Debug/net7.0/ref/Observer.dll

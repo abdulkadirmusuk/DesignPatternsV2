@@ -1,4 +1,23 @@
-﻿<Properties StartupConfiguration="{CC0E37B5-B75D-4FB4-B19C-87F299FB0AAE}|Default" GitUserInfo="UsingGIT">
-  <MultiItemStartupConfigurations />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{169DA23C-F828-42D3-93EA-855B47DEB9AC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.Strategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/Oyun.cs">
+    <Files>
+      <File FileName="Strategy/Program.cs" />
+      <File FileName="Strategy/Oyun.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatternsV2" expanded="True">
+            <Node name="Strategy" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
